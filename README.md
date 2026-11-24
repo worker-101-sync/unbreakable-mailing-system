@@ -13,14 +13,14 @@ A robust, full-featured desktop application built for high-performance email mar
 *   **Proxy Management:** Built-in proxy rotation to maintain IP health during mass sending.
 
 ## 🛠️ Tech Stack
-*(Note: Customize these to match exactly what you used!)*
+
 *   **Core Language:** Python
 *   **Framework/UI:** customtkinter
 *   **Database:** SQLite
 *   **Integrations:** requests, pysocks, dnspython, faker, psutil, smtp .
 
 ## 📸 Screenshots
-*(We will upload your screenshots in the next step and paste the links here!)*
+
 
 ## 🔒 Source Code Notice
 *The core source code for this project is proprietary. However, I am happy to walk through the architecture, database schema during an interview or technical discussion.*
