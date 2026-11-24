@@ -30,4 +30,4 @@ A robust, full-featured desktop application built for high-performance email mar
 - **Email:** [d.r.m.o.n.kh@gmail.com]
 
 ---
-*Created by [Li-on101](https://github.com/worker-101-sync)*
+*Created by [Dr Monk](https://github.com/worker-101-sync)*
