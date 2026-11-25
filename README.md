@@ -13,21 +13,53 @@ A robust, full-featured desktop application built for high-performance email mar
 *   **Proxy Management:** Built-in proxy rotation to maintain IP health during mass sending.
 
 ## 🛠️ Tech Stack
-
 *   **Core Language:** Python
-*   **Framework/UI:** customtkinter
+*   **Framework/UI:** CustomTkinter
 *   **Database:** SQLite
-*   **Integrations:** requests, pysocks, dnspython, faker, psutil, smtp .
+*   **Integrations:** SMTP, psutil, faker, dnspython, pysocks.
+
+## ⬇️ Download (Free Trial)
+You can download the free trial `.exe` here:
+👉 **[Download Unbreakable Sword v13.2](https://www.upload.ee/files/19992943/main.zip.html)**
+      
+##  Login credential
+👉 **[Username:- admin)**
+👉 **[Password:- admin)**
 
 ## 📸 Screenshots
 
+**Core Interface**
+![Login Screen](https://www.upload.ee/image/19992748/Login.png)
+![Home Screen](https://www.upload.ee/image/19992752/home.png)
+![Dashboard Screen](https://www.upload.ee/image/19992757/dashboard.png)
+![History Screen](https://www.upload.ee/image/19992763/history.png)
+
+**Email & SMTP Features**
+![SMTP Screen](https://www.upload.ee/image/19992797/email-room.png)
+![Email Generator Screen](https://www.upload.ee/image/19992808/emain-generator.png)
+![SMS Room Screen](https://www.upload.ee/image/19992814/sms-room.png)
+
+**Campaign Management**
+![Campaign Room Screen](https://www.upload.ee/image/19992820/campaign-room.png)
+![Message Screen](https://www.upload.ee/image/19992826/message-screen.png)
+![Recipient Screen](https://www.upload.ee/image/19992831/recipient.png)
+![Sender Information Screen](https://www.upload.ee/image/19992837/sender.png)
+![SMTP Account Screen](https://www.upload.ee/image/19992844/smtp-account.png)
+![Tracking Screen](https://www.upload.ee/image/19992872/tracking.png)
+![Campaign Settings Screen](https://www.upload.ee/thumb/19992878/campaign-settings.png)
+![Campaign Stats Screen](https://www.upload.ee/image/19992887/campaign-stats.png)
+
+**Configuration**
+![Proxies Screen](https://www.upload.ee/image/19992889/proxies.png)
+![Settings Screen](https://www.upload.ee/image/19992894/settings.png)
 
 ## 🔒 Source Code Notice
-*The core source code for this project is proprietary. However, I am happy to walk through the architecture, database schema during an interview or technical discussion.*
+*The core source code for this project is proprietary. However, I am happy to walk through the architecture, database schema, and API integrations during an interview or technical discussion.*
 
 ## 📫 Contact
-- **Telegram:** [https://t.me/Dr_m0nk1]
-- **Email:** [d.r.m.o.n.kh@gmail.com]
+- **Telegram:** [@Dr_m0nk1](https://t.me/Dr_m0nk1)
+- **Email:** [d.r.m.o.n.kh@gmail.com](mailto:d.r.m.o.n.kh@gmail.com)
+- **Website:** (http://dr-monk.kesug.com/)
 
 ---
-*Created by [Dr Monk](https://github.com/worker-101-sync)*
+*Created by [worker-101-sync](https://github.com/worker-101-sync)*
