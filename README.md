@@ -29,7 +29,7 @@ You can download the free trial `.exe` here:
 ## 📸 Screenshots
 
 **Core Interface**
-![Login Screen](https://www.upload.ee/image/19992748/Login.png)
+
 ![Home Screen](https://www.upload.ee/image/19992752/home.png)
 ![Dashboard Screen](https://www.upload.ee/image/19992757/dashboard.png)
 ![History Screen](https://www.upload.ee/image/19992763/history.png)
